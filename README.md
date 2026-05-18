@@ -9,7 +9,7 @@ A  Business portfolio created with HTML,CSS and javascript.Responsive designand 
 . CSS3
 . javascript
 ## Live Demo
-. https://github.com/Danny-phantom17/A-Business-portfolio
+. https://danny-phantom17.github.io/A-Business-portfolio/
 ##Project structure 
 . index.html
 . style.css
